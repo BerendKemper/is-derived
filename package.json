@@ -1,0 +1,18 @@
+{
+	"name": "is-derived",
+	"version": "1.0.0",
+	"description": "Walks up the Target's prototype chain to find if it was derived from Source. Might be usefull to extend sub-classes from a class interface.",
+	"main": "isDerived.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BerendKemper/isDerived.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/BerendKemper/isDerived/issues"
+	},
+	"homepage": "https://github.com/BerendKemper/isDerived#readme"
+}
