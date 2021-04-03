@@ -1,6 +1,6 @@
 {
 	"name": "is-derived",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "Walks up the Target's prototype chain to find if it was derived from Source. Might be usefull to extend sub-classes from a class interface.",
 	"main": "isDerived.js",
 	"scripts": {},
